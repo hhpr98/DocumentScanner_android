@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarkerView">
+        <attr name="showIfNoDetect" format="boolean"/>
+        <attr name="mode" format="enum">
+            <enum name="hidden" value="0"/>
+            <enum name="preview" value="1"/>
+            <enum name="cropper" value="2"/>
+        </attr>
+        <attr name="previewColor" format="color"/>
+        <attr name="cropperColor" format="color"/>
+        <attr name="startMode" format="enum">
+            <enum name="hidden" value="0"/>
+            <enum name="preview" value="1"/>
+            <enum name="cropper" value="2"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="CaptureIconView">
+        <attr name="captureMode" format="enum">
+            <enum name="autoCapture" value="0"/>
+            <enum name="manualCapture" value="1"/>
+        </attr>
+
+        <attr name="insideColor" format="color"/>
+        <attr name="insideActiveColor" format="color"/>
+        <attr name="outlineColor" format="color"/>
+        <attr name="autolineColor" format="color"/>
+
+        <attr name="strokeOutlinePercent" format="float"/>
+        <attr name="distancePercent" format="float" />
+        <attr name="distanceActivePercent" format="float"/>
+        <attr name="animateSwitchDuration" format="integer"/>
+        <attr name="autoDurationPerRound" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="FilterImageView">
+        <attr name="filterParameter" format="float"/>
+        <attr name="filterParameter1" format="float"/>
+        <attr name="filterParameter2" format="float"/>
+        <attr name="bitmapSrc" format="reference"/>
+        <attr name="filterClass"/>
+        <attr name="drawBitmapIfNoFilter" format="boolean"/>
+        <attr name="filter" format="enum">
+            <enum name="none" value="0"/>
+            <enum name="quickView" value="1"/>
+            <enum name="fullQuickView" value="2"/>
+        </attr>
+    </declare-styleable>
+
+
+</resources>

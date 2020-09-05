@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="flatWhite">#F5F5F5</color>
+    <color name="flatTealBlue">#5AC8FA</color>
+    <color name="tomato">#ff6347</color>
+    <color name="lightOrange">#ffaa00</color>
+    <color name="lightGreen">#3dcc3d</color>
+    <color name="iconGreen">#1ABC9C</color>
+    <color name="lightBlue">#00aaff</color>
+    <color name="lightTealBlue">#2bd9d9</color>
+    <color name="lightYellow">#ffd426</color>
+    <color name="darkFocus">#171228</color>
+    <color name="flatYellow">#FFCC00</color>
+    <color name="flatOrange">#FF9500</color>
+    <color name="flatRed">#FF3B30</color>
+    <color name="scanner_theme_color">#DE6501</color>
+    <color name="scanner_text_color">#300D00</color>
+    <color name="heavyOrange">#AF8700</color>
+    <color name="heavyRed">#770000</color>
+    <color name="heavyTealBlue">#0058AA</color>
+    <color name="heavyYellow">#802D00</color>
+    <color name="heavyGreen">#005800</color>
+    <color name="heavyBlue">#00218B</color>
+    <color name="heavyPurple">#162EA6</color>
+    <color name="heavyPink">#B60024</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="shadowColor" >#44000000</color>
+    <color name="DarkerColorL3">#161218</color>
+    <color name="search_hint_light">#8A8A8A</color>
+    <color name="search_hint_dark">#9AA0A5</color>
+    <color name="app_bar_icon_tint_light">#626262</color>
+    <color name="app_bar_icon_tint_dark">#9AA0A5</color>
+    <color name="backColorDark">#121212</color>
+</resources>

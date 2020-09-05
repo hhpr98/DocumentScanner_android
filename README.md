@@ -1,2 +1,2 @@
-# DocumentScanner_android
-Document Scanner - Quản lí dự án phần mềm
+# DocumentScanner
+Initial APK [Click here to download](https://github.com/dtrung98/Source/raw/master/document_scanner.apk)
